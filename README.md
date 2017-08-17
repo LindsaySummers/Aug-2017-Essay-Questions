@@ -1,15 +1,15 @@
-# August 2017
+### August 2017
 
 # **L I N D S A Y &nbsp; S U M M E R S'**  &nbsp; E S S A Y  &nbsp; Q U E S T I O N S  
   
-## **Question #1: Why are you interested in programming? What have you done to expose yourself to programming so far?**  
+#### **Question #1: Why are you interested in programming? What have you done to expose yourself to programming so far?**  
 >    
 >Honestly, I have always been interested in programming. Ever since I was young, I was always interested in Legos, robots, science, etc. The closest to “programming” when I was in school was, simply, mathematics, and I have always really loved math. I majored in math in college and then found that I was naturally really good at working with Excel. For fun, I write mini Excel programs which generate customizable math worksheets (for example), which I used to use all the time when I was teaching mathematics.  
 >    
 >Lately, I’ve been really trying to get more and more into programming, so instead of teaching math this year, I am currently teaching “Computational Thinking.” The administrators who hired me, told me that they were specifically looking for a math teacher (a math background is good for the type of thinking, and an experienced teacher in order to deal with students) to learn how to code with the students (and that it was great that I didn’t know much about coding prior to accepting the job). My students and I have worked with spreadsheet basics, [Code.org], [Scratch], and now we’re moving on to web design using [Wix.com].  
 ###### &nbsp;  
   
-## **Question #2: If you are accepted into our program, where do you see your career in 5 years?**  
+#### **Question #2: If you are accepted into our program, where do you see your career in 5 years?**  
   
 It’s a bit difficult for me to predict where I see myself in 5 years if I were accepted into Ada’s program because I honestly know nothing about the programming world. I don’t know where I would begin, how fast I would progress, or what the possibilities are to even shoot for. What I DO know is that I am an extremely hard worker, I love learning new things, I strive on challenges, and I am hard-wired (as well as trained mathematically) to think logically. Whenever I think of the endless possibilities that I would gain from Ada, I become giddy and day-dream like a little kid! I don’t know what a job as a coder would look like, but I know that I’m excited to find out!   
 ###### &nbsp;  

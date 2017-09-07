@@ -3,22 +3,22 @@
 # L i n d s a y S u m m e r s' E s s a y Q u e s t i o n s    
   
 ## **Question #1: *Why are you interested in programming? What have you done to expose yourself to programming so far?***  
->Honestly, I have always been interested in programming. I remember when AOL first came out (I was 7th grade – middle school). Not only can I remember the noise that it made when it was “dialing” the internet, but I remember AOL profiles – a section where you can type a bit about yourself so that others could learn a bit about you. I remember thinking that plain text was boring, so I researched if there was a way to make it more interesting. Sure enough, I found myself diving deep into HTML: bold, underlined, italicized text, headers, and colors! I was in heaven! I absolutely LOVED making my AOL profile truly reflect my personality. Soon after, MySpace was introduced and I also used a lot of HTML there too.  
->  
->I consider myself to be a very logical, systematic, and organized person, so I believe that my brain has always been on the same wave-length as one who is a programmer.  
->  
->When I was in college, I naturally found myself studying math – and I loved it! I found math to be very satisfying because it was very “black and white” – no debates, no grey area, and no subjectivity. Yet, at the same time, I appreciated the other side of mathematics as well – a side that a lot of people don’t even know exists in math (even when I try to explain it to them). There is a beautiful side to mathematics (as well as any type of problem solving), that is extremely artistic. Problems can be approached, and solved, in many different ways and styles; this only deepened my love for mathematics and general problem solving. I loved tackling new problems each day which lead to brainstorming and collaborating with my classmates. I loved how I could solve a problem one way, and then a month later, look at the same problem in a while new light.  
->  
->Long story short: I earned my Bachelor of ARTS degree (not Bachelor of Science) in Mathematics.  
->  
->Nowadays, I use MS Excel for just about everything (not for a job, just in my every day life, because I love it). I love that I can use nested conditional statements to organize whatever I’m working with.  
->  
->What I have done recently to expose myself to programming is that I’ve been practicing on Code.org, Scratch.mit.edu, Jump Start, etc.  
->
+Honestly, I have always been interested in programming. I remember when AOL first came out (I was 7th grade – middle school). Not only can I remember the noise that it made when it was “dialing” the internet, but I remember AOL profiles – a section where you can type a bit about yourself so that others could learn a bit about you. I remember thinking that plain text was boring, so I researched if there was a way to make it more interesting. Sure enough, I found myself diving deep into HTML: bold, underlined, italicized text, headers, and colors! I was in heaven! I absolutely LOVED making my AOL profile truly reflect my personality. Soon after, MySpace was introduced and I also used a lot of HTML there too.  
   
+I consider myself to be a very logical, systematic, and organized person, so I believe that my brain has always been on the same wave-length as one who is a programmer.  
+  
+When I was in college, I naturally found myself studying math – and I loved it! I found math to be very satisfying because it was very “black and white” – no debates, no grey area, and no subjectivity. Yet, at the same time, I appreciated the other side of mathematics as well – a side that a lot of people don’t even know exists in math (even when I try to explain it to them). There is a beautiful side to mathematics (as well as any type of problem solving), that is extremely artistic. Problems can be approached, and solved, in many different ways and styles; this only deepened my love for mathematics and general problem solving. I loved tackling new problems each day which lead to brainstorming and collaborating with my classmates. I loved how I could solve a problem one way, and then a month later, look at the same problem in a while new light.  
+  
+Long story short: I earned my Bachelor of ARTS degree (not Bachelor of Science) in Mathematics.  
+  
+Nowadays, I use MS Excel for just about everything (not for a job, just in my every day life, because I love it). I love that I can use nested conditional statements to organize whatever I’m working with.  
+  
+What I have done recently to expose myself to programming is that I’ve been practicing on Code.org, Scratch.mit.edu, Jump Start, etc.  
+  
+----------
 ## **Question #2: *If you are accepted into our program, where do you see your career in 5 years?***   
->If I were accepted into Ada’s career-transition-program, then I imagine myself no longer in the teaching field, but completely immersed and loving the programming world. I have a vision of being on an amazing, fun-loving, diverse team, who all love problem-solving, collaborating, and helping each other learn.  
->  
+If I were accepted into Ada’s career-transition-program, then I imagine myself no longer in the teaching field, but completely immersed and loving the programming world. I have a vision of being on an amazing, fun-loving, diverse team, who all love problem-solving, collaborating, and helping each other learn.  
+  
 I usually have crazy ideas for new apps and always think about how businesses can improve if they just have a program that could (insert crazy idea here), or if they have an app that could (insert radical app idea here). I have yearned to know how to program apps, but teaching math the last couple of years has, quite literally, taking over my life. Now that I have already committed myself to making a career change (I’m not going back to teaching this year because I want to 100% focus on my career transition), and because of how my brain is naturally “wired,” and if I had the key-knowledge from Ada’s amazing program, then I really envision myself working on a team to build something that could truly make a difference. Whether that difference is a website, an app, or some sort of program behind the scenes that I don’t even know how to describe… All I know is that I see myself learning how to program, working on a team that feels like my family, and doing something I am truly passionate about.  
   
 ----------  

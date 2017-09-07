@@ -1,9 +1,9 @@
 ### August 2017
 
-# L I N D S A Y  S U M M E R S'  E S S A Y  Q U E S T I O N S  
+# L i n d s a y S u m m e r s' E s s a y Q u e s t i o n s    
   
-### **Question #1:**  
-## **Why are you interested in programming? What have you done to expose yourself to programming so far?**  
+### **Question #1: *Why are you interested in programming? What have you done to expose yourself to programming so far?***  
+----
 >Honestly, I have always been interested in programming. I remember when AOL first came out (I was 7th grade – middle school). Not only can I remember the noise that it made when it was “dialing” the internet, but I remember AOL profiles – a section where you can type a bit about yourself so that others could learn a bit about you. I remember thinking that plain text was boring, so I researched if there was a way to make it more interesting. Sure enough, I found myself diving deep into HTML: bold, underlined, italicized text, headers, and colors! I was in heaven! I absolutely LOVED making my AOL profile truly reflect my personality. Soon after, MySpace was introduced and I also used a lot of HTML there too.  
 >  
 >I consider myself to be a very logical, systematic, and organized person, so I believe that my brain has always been on the same wave-length as one who is a programmer.  

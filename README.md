@@ -22,8 +22,8 @@ What I have done recently to expose myself to programming is that I’ve been pr
 >
 >I usually have crazy ideas for new apps and always think about how businesses can improve if they just have a program that could (insert crazy idea here), or if they have an app that could (insert radical app idea here). I have yearned to know how to program apps, but teaching math the last couple of years has, quite literally, taking over my life. Now that I have already committed myself to making a career change (I’m not going back to teaching this year because I want to 100% focus on my career transition), and because of how my brain is naturally “wired,” and if I had the key-knowledge from Ada’s amazing program, then I really envision myself working on a team to build something that could truly make a difference. Whether that difference is a website, an app, or some sort of program behind the scenes that I don’t even know how to describe… All I know is that I see myself learning how to program, working on a team that feels like my family, and doing something I am truly passionate about.
 >
-\  
-\  
+**  **
+**  **
 ### **Question #3: After reading Ada's Vision, Mission and Inclusivity Statement, how will you contribute to Ada's vision for an inclusive and diverse community? http://adadevelopersacademy.org/program**   
 >
 >I truly believe that differences are amazing. Differences are what make us unique and who we are. We need to celebrate difference and embrace it with open arms – not cast it away just because we’re not used to it.
@@ -50,8 +50,8 @@ What I have done recently to expose myself to programming is that I’ve been pr
 >
 >Because of this determination and unwavering dedication, that is so deeply rooted into my character, to everything I throw myself into, I’m grateful for the lesson I have learned from my “mistake” when I was only in second grade. I’m not saying that I’m grateful I quit (not at all), but my self-reflection and great character that emerged from the whole situation has been a life-changing pivot-point, for sure!
 >
-\  
-\  
-[Wix.com]: http://www.wix.com
-[Scratch]: https://scratch.mit.edu/
-[Code.org]: http://www.code.org
+**  **
+**  **
+[Wix.com](http://www.wix.com)
+[Scratch](https://scratch.mit.edu)
+[Code.org](http://www.code.org)

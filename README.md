@@ -19,9 +19,9 @@
 ## **Question #2: *If you are accepted into our program, where do you see your career in 5 years?***   
 >If I were accepted into Ada’s career-transition-program, then I imagine myself no longer in the teaching field, but completely immersed and loving the programming world. I have a vision of being on an amazing, fun-loving, diverse team, who all love problem-solving, collaborating, and helping each other learn.  
 >  
->I usually have crazy ideas for new apps and always think about how businesses can improve if they just have a program that could (insert crazy idea here), or if they have an app that could (insert radical app idea here). I have yearned to know how to program apps, but teaching math the last couple of years has, quite literally, taking over my life. Now that I have already committed myself to making a career change (I’m not going back to teaching this year because I want to 100% focus on my career transition), and because of how my brain is naturally “wired,” and if I had the key-knowledge from Ada’s amazing program, then I really envision myself working on a team to build something that could truly make a difference. Whether that difference is a website, an app, or some sort of program behind the scenes that I don’t even know how to describe… All I know is that I see myself learning how to program, working on a team that feels like my family, and doing something I am truly passionate about.  
->    
+I usually have crazy ideas for new apps and always think about how businesses can improve if they just have a program that could (insert crazy idea here), or if they have an app that could (insert radical app idea here). I have yearned to know how to program apps, but teaching math the last couple of years has, quite literally, taking over my life. Now that I have already committed myself to making a career change (I’m not going back to teaching this year because I want to 100% focus on my career transition), and because of how my brain is naturally “wired,” and if I had the key-knowledge from Ada’s amazing program, then I really envision myself working on a team to build something that could truly make a difference. Whether that difference is a website, an app, or some sort of program behind the scenes that I don’t even know how to describe… All I know is that I see myself learning how to program, working on a team that feels like my family, and doing something I am truly passionate about.  
   
+----------  
 ## **Question #3: *After reading [Ada's Vision, Mission and Inclusivity Statement], how will you contribute to Ada's vision for an inclusive and diverse community?***     
 I truly believe that differences are amazing. Differences are what make us unique and who we are. We need to celebrate difference and embrace it with open arms – not cast it away just because we’re not used to it.  
   
@@ -33,7 +33,7 @@ A few days later, they came out to me and told me they were both gay (together) 
  
 So, long story short, how I’ll “contribute” to the Ada community of diversity and inclusivity, is by the same way I “contribute” the diversity and inclusivity already, outside of Ada, in my everyday life: by being accepting and loving of everyone, letting no one destroy the safe environment I build around myself, and by being my normal “stubborn” self when it comes to taking a stand.    
   
-===================
+----------
 ## **Question #4: *Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?***  
 I make mistakes all the time and, actually, I’m ok with that because I’ve come to realize that with every mistake, comes a lesson; whether monumental or minute, each lesson is of value.  
   

@@ -15,7 +15,7 @@ Nowadays, I use MS Excel for just about everything (not for a job, just in my ev
   
 What I have done recently to expose myself to programming is that I’ve been practicing on Code.org, Scratch.mit.edu, Jump Start, etc.  
 
-==============
+------------------
 ### **Question #2: If you are accepted into our program, where do you see your career in 5 years?**  
 >  
 >If I were accepted into Ada’s career-transition-program, then I imagine myself no longer in the teaching field, but completely immersed and loving the programming world. I have a vision of being on an amazing, fun-loving, diverse team, who all love problem-solving, collaborating, and helping each other learn.  

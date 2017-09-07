@@ -23,17 +23,17 @@
 >    
   
 ## **Question #3: *After reading [Ada's Vision, Mission and Inclusivity Statement], how will you contribute to Ada's vision for an inclusive and diverse community?***     
->I truly believe that differences are amazing. Differences are what make us unique and who we are. We need to celebrate difference and embrace it with open arms – not cast it away just because we’re not used to it.  
->  
->I am accepting and loving of everyone and I will (and have) always stand by that – I am a stubborn Italian from New York – I do not back down easily. But stubbornness can be a great quality (yet, it has such a negative connotation) – I call myself “stubborn” as quality that I’m proud of. Here’s a story as to why:  
->  
->Years ago (probably a decade ago now), I had two friends (still friends to this day), who I did not know were gay. We were hanging out and one friend called the other friend a derogatory name (in jest) and they both laughed – I didn’t laugh. My one friend said something along the lines of “well he is, look how he acts, just call him a \_\_\_\_\_, it’s funny, he doesn’t care.” I refused and ended up having an argument with my friend about why he should not use language like that. His argument was “it’s just funny, who cares, there’s no gay people around anyway.” I stood my ground and my beliefs.  I ended up leaving and told them if that’s how they truly think, then perhaps we just simply shouldn’t hang out – I don’t want to be around people who are negative, make jokes at other people’s expense that are only “funny” to other disrespectful people, and who destroy the safe space I build around myself…  
->  
->A few days later, they came out to me and told me they were both gay (together) – that they weren’t just roommates, but an actual couple.  I thought they were joking at first – another “joke.” They were 100% serious and they said it was amazing how I stood up TO them, FOR them (and without even knowing).  They told me how they had done that to other friends before and other people just casually, uncomfortably, laugh along, but no one has the audacity to actually take a stand. To this day, they praise me for how I was the only one who fought for what I truly believed in, even when I thought no one listening.  
-> 
->So, long story short, how I’ll “contribute” to the Ada community of diversity and inclusivity, is by the same way I “contribute” the diversity and inclusivity already, outside of Ada, in my everyday life: by being accepting and loving of everyone, letting no one destroy the safe environment I build around myself, and by being my normal “stubborn” self when it comes to taking a stand.  
->  
+I truly believe that differences are amazing. Differences are what make us unique and who we are. We need to celebrate difference and embrace it with open arms – not cast it away just because we’re not used to it.  
   
+I am accepting and loving of everyone and I will (and have) always stand by that – I am a stubborn Italian from New York – I do not back down easily. But stubbornness can be a great quality (yet, it has such a negative connotation) – I call myself “stubborn” as quality that I’m proud of. Here’s a story as to why:  
+  
+Years ago (probably a decade ago now), I had two friends (still friends to this day), who I did not know were gay. We were hanging out and one friend called the other friend a derogatory name (in jest) and they both laughed – I didn’t laugh. My one friend said something along the lines of “well he is, look how he acts, just call him a \_\_\_\_\_, it’s funny, he doesn’t care.” I refused and ended up having an argument with my friend about why he should not use language like that. His argument was “it’s just funny, who cares, there’s no gay people around anyway.” I stood my ground and my beliefs.  I ended up leaving and told them if that’s how they truly think, then perhaps we just simply shouldn’t hang out – I don’t want to be around people who are negative, make jokes at other people’s expense that are only “funny” to other disrespectful people, and who destroy the safe space I build around myself…  
+  
+A few days later, they came out to me and told me they were both gay (together) – that they weren’t just roommates, but an actual couple.  I thought they were joking at first – another “joke.” They were 100% serious and they said it was amazing how I stood up TO them, FOR them (and without even knowing).  They told me how they had done that to other friends before and other people just casually, uncomfortably, laugh along, but no one has the audacity to actually take a stand. To this day, they praise me for how I was the only one who fought for what I truly believed in, even when I thought no one listening.  
+ 
+So, long story short, how I’ll “contribute” to the Ada community of diversity and inclusivity, is by the same way I “contribute” the diversity and inclusivity already, outside of Ada, in my everyday life: by being accepting and loving of everyone, letting no one destroy the safe environment I build around myself, and by being my normal “stubborn” self when it comes to taking a stand.    
+  
+===================
 ## **Question #4: *Tell us about a time you made a mistake that you learned a lot from. If you encountered the situation again, what would you do differently?***  
 I make mistakes all the time and, actually, I’m ok with that because I’ve come to realize that with every mistake, comes a lesson; whether monumental or minute, each lesson is of value.  
   

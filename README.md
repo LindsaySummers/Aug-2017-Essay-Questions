@@ -43,8 +43,15 @@ Later in life, I’ve come to really regret this decision. “Was that extra day
   
 From that point-of-reflection on, I really learned from my “mistake” of quitting the piano; although I was sad that I quit, I now always end up thinking of that situation whenever things get difficult in life. I think about how I am NOT a quitter – I finish what I start, and finish it with flying colors! If I can’t figure out how to do something, then I research, I ask friends, I watch YouTube videos, I bounce ideas off people, or I ask my parents and other family members to get a completely different perspective of things; I might take little breaks here and there to “reboot” my brain, but I always stick to what I start.  
   
-Because of this determination and unwavering dedication, that is so deeply rooted into my character, to everything I throw myself into, I’m grateful for the lesson I have learned from my “mistake” when I was only in second grade. I’m not saying that I’m grateful I quit (not at all), but my self-reflection and great character that emerged from the whole situation has been a life-changing pivot-point, for sure!  
+Because of this determination and unwavering dedication, that is so deeply rooted into my character, to everything I throw myself into, I’m grateful for the lesson I have learned from my “mistake” when I was only in second grade. I’m not saying that I’m grateful I quit (not at all), but my self-reflection and great character that emerged from the whole situation has been a life-changing pivot-point, for sure!    
   
+----------
+## **Question #5: *What has changed since your last application? Please share any relevant work, study, or personal experiences.***
+Since the last Ada application, I've been really trying to immerse myself into coding tutorials as well as the coding community.
+Learning to code, I’ve been working on Code Academy, Ada’s Jumpstart curriculum, Code.org, Scratch.mit.edu, as well as practicing with Excel and “Macros.”
+As a break for my brain (yet still trying to be active and progress myself into the programming world), I’ve been immersing myself into the community by reaching out to girls on Facebook (as well as other social platforms) in order to hang out and make like-minded friends. I’ve been snowboarding with my new friends a bunch of times this season and I love all the feedback and inspiration my new friends have given me!
+
+
   
 [Wix.com]: http://www.wix.com
 [Scratch]: https://scratch.mit.edu

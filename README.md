@@ -48,7 +48,8 @@ Because of this determination and unwavering dedication, that is so deeply roote
 ----------
 ## **Question #5: *What has changed since your last application? Please share any relevant work, study, or personal experiences.***
 Since the last Ada application, I've been really trying to immerse myself into coding tutorials as well as the coding community.
-Learning to code, I’ve been working on Code Academy, Ada’s Jumpstart curriculum, Code.org, Scratch.mit.edu, as well as practicing with Excel and “Macros.”
+Learning to code, I’ve been working on Code Academy, Ada’s Jumpstart curriculum, Code.org, Scratch.mit.edu, as well as practicing with Excel and “Macros.”    
+    
 As a break for my brain (yet still trying to be active and progress myself into the programming world), I’ve been immersing myself into the community by reaching out to girls on Facebook (as well as other social platforms) in order to hang out and make like-minded friends. I’ve been snowboarding with my new friends a bunch of times this season and I love all the feedback and inspiration my new friends have given me!
 
 
